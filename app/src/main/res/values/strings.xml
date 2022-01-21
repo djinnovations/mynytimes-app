@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyNyTimeApp</string>
+
+    <string name="generic_error">Something went wrong</string>
+    <string name="title">NY Times Most Popular</string>
+    <string name="article_details">NY Times Most Popular</string>
+</resources>

@@ -1,4 +1,4 @@
-# mynytimes-app
+# NY Times Most Popular API
 # Project uses below tools & utility
 # Kotlin
 # Clean Architecture
